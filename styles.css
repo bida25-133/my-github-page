@@ -72,3 +72,7 @@ main a[href="mailto:"] {
     color: #FFF5F7;
     font-weight: bold;
 }
+
+table, th, td {
+    border: 1px solid black;
+}
