@@ -76,3 +76,12 @@ main a[href="mailto:"] {
 table, th, td {
     border: 1px solid black;
 }
+
+form {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #F2D1C9;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
